@@ -1,7 +1,7 @@
 baseURL = 'http://example.org/'
 languageCode = 'ru'
 title = 'Тюменское дело'
-theme = 'papermod'
+theme = 'PaperMod'
 defaultContentLanguage = "ru"
 
 
