@@ -17,16 +17,11 @@ og = "/img/og.png"
 
 [menu]
 [[menu.main]]
-    name = 'Home'
-    pageRef = '/'
-    weight = 10
-
-[[menu.main]]
-    name = 'test1'
+    name = 'О деле'
     pageRef = '/about'
     weight = 20
 
 [[menu.main]]
-    name = 'Service'
-    pageRef = '/service/as'
+    name = 'Поддержать'
+    pageRef = '/support'
     weight = 30
