@@ -22,8 +22,8 @@ og = "/img/og.png"
     weight = 10
 
 [[menu.main]]
-    name = 'Aaaaa'
-    pageRef = '/aaaa/ss'
+    name = 'test1'
+    pageRef = '/about'
     weight = 20
 
 [[menu.main]]
