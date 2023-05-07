@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://tumen2022.github.io/tumen/'
 languageCode = 'ru'
 title = 'Тюменское дело'
 theme = 'PaperMod'
