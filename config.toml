@@ -9,10 +9,10 @@ defaultContentLanguage = "ru"
 home = ["HTML", "RSS"]
 
 [params]
-author = "Группа поддержки по тюменскому делу"                # You can also set author in post front matter individually
-defaultTheme = "dark"              # default theme when first visit (auto|dark|light)
+author = "Группа поддержки по тюменскому делу"             
+defaultTheme = "dark" 
 
-description = "A minimal Hugo theme with nice theme color."
+description = "Сайт поддержки ребят по <<тюменскому делу>>"
 og = "/img/og.png" 
 
 [menu]
