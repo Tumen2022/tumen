@@ -1,0 +1,55 @@
+[sidebarToc]
+    other = "Таблица контента"
+
+[sidebarPages]
+    other = "Страница"
+
+[sidebarTags]
+    other = "Тэги"
+
+[sidebarLinks]
+    other = "Ссылки"
+
+[sidebarBangumiChart]
+    other = "Bangumi"
+
+[footerPoweredFront]
+    other = "Powered by "
+
+[footerPoweredEnd]
+    other = " "
+
+[postMetaNoTag]
+    other = "Без тегов"
+
+[postMetaWordCount]
+    one = "{{.Count}} слово"
+    other = "{{.Count}} слов"
+
+[postMetaReadingTime]
+    one = "{{.Count}} минута"
+    other = "{{.Count}} минут"
+
+[postCopyrightFront]
+    other = "Unless otherwise noted, the content of this site is licensed under "
+
+[postCopyrightEnd]
+    other = "."
+
+[postComment]
+    other = "Загрузить комментарии"
+
+[archivesTotalPages]
+    other = "Всего постов: "
+
+[tagsCurrentTag]
+    other = "Постов с тегом {{ .Title }}: "
+
+[searchSuccess]
+    other = "Результатов: [NUM] ([TIME] ms)"
+
+[searchNotFound]
+    other = "Нет результатов"
+
+[searchFailed]
+    other = "Ошибка загрузки index файла"

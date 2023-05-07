@@ -1,0 +1,32 @@
+baseURL = 'http://example.org/'
+languageCode = 'ru'
+title = 'Тюменское дело'
+theme = 'papermod'
+defaultContentLanguage = "ru"
+
+
+[outputs]
+home = ["HTML", "RSS"]
+
+[params]
+author = "Группа поддержки по тюменскому делу"                # You can also set author in post front matter individually
+defaultTheme = "dark"              # default theme when first visit (auto|dark|light)
+
+description = "A minimal Hugo theme with nice theme color."
+og = "/img/og.png" 
+
+[menu]
+[[menu.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+
+[[menu.main]]
+    name = 'Aaaaa'
+    pageRef = '/aaaa/ss'
+    weight = 20
+
+[[menu.main]]
+    name = 'Service'
+    pageRef = '/service/as'
+    weight = 30
