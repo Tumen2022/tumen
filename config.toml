@@ -12,6 +12,8 @@ home = ["HTML", "RSS"]
 author = "Группа поддержки по тюменскому делу"             
 defaultTheme = "dark" 
 
+mainSections = ["post"]
+
 description = "Сайт поддержки ребят по <<тюменскому делу>>"
 og = "/img/og.png" 
 
