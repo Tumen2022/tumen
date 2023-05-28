@@ -17,11 +17,27 @@ og = "/img/og.png"
 
 [menu]
 [[menu.main]]
+    name = 'Новости'
+    pageRef = '/news'
+    weight = 10
+
+[[menu.main]]
     name = 'О деле'
     pageRef = '/about'
     weight = 20
 
 [[menu.main]]
-    name = 'Поддержать'
-    pageRef = '/support'
+    name = 'Фигуранты'
+    pageRef = '/persons'
     weight = 30
+
+[[menu.main]]
+    name = 'Письма,рисунки,стихи '
+    pageRef = '/letters'
+    weight = 40
+
+
+[[menu.main]]
+    name = 'Поддержать'
+    pageRef = '/help'
+    weight = 50
