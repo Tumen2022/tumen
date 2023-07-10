@@ -1,0 +1,34 @@
+
+.persons-section{
+    display: flex;
+    padding: 48px 24px;
+    background-color: var(--entry);
+    border-radius: var(--radius);
+    gap: 48px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: 24px !important;
+}
+
+.persons-title{
+    margin-top: 80px;
+}
+
+.person-card{
+    text-align: center;
+    flex-basis: 25%;
+}
+
+.person-image-wrapper {
+    display: inline-block;
+    border-radius: 50%;
+    overflow: hidden;
+    width: 80px;
+    height: 80px;
+}
+
+.person-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}

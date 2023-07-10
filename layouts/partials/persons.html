@@ -1,0 +1,13 @@
+{{ $persons := getJSON "persons.json" }}
+<h2 class="persons-title">Фигуранты</h2>
+<div class="persons-section">
+{{ range $persons }}
+<a class="person-card"  href="{{ .link }}">
+    <div class="person-image-wrapper">
+        <img class="person-image" src="{{ .image }}">
+    </div>
+    <h3 class="person-name">{{ .name }}</h3>
+    <h3 class="person-lastname">{{ .lastname }}</h3>
+</a>
+{{ end }}
+</div>

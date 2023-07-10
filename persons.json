@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Рома",
+    "lastname": "Паклин",
+    "image": "/persons/paklin.jpg",
+    "link": "/persons/paklin"
+  },
+  {
+    "name": "Никита",
+    "lastname": "Олейник",
+    "image": "/persons/blank.jpg",
+    "link": "/persons/olejnik"
+  },
+  {
+    "name": "Юра",
+    "lastname": "Незнамов",
+    "image": "/persons/blank.jpg",
+    "link": "/persons/nezmanov"
+  },
+  {
+    "name": "Данил",
+    "lastname": "Чертыков",
+    "image": "/persons/blank.jpg",
+    "link": "/persons/chertikov"
+  },
+  {
+    "name": "Кирилл",
+    "lastname": "Брик",
+    "image": "/persons/blank.jpg",
+    "link": "/persons/brik"
+  },
+  {
+    "name": "Дениз",
+    "lastname": "Айдын",
+    "image": "/persons/blank.jpg",
+    "link": "/persons/ajdin"
+  }
+]
