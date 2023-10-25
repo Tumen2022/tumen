@@ -15,7 +15,7 @@ Instagram [instagram.com/tumenskoe_delo](instagram.com/tumenskoe_delo)
 Facebook [facebook.com/tumenskoedelo](facebook.com/tumenskoedelo)
 
 ### СБОР
-0xF9EB840b76786C783c515dc8EBe3071Dc937D8f7
+
 [Счет в Тинькофф](https://www.tinkoff.ru/rm/smertin.matvey1/Wm2uo72443)
 
 #### Карты сбора:
