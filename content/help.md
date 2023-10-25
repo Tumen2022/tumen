@@ -15,8 +15,8 @@ Instagram [instagram.com/tumenskoe_delo](instagram.com/tumenskoe_delo)
 Facebook [facebook.com/tumenskoedelo](facebook.com/tumenskoedelo)
 
 ### СБОР
-
-https://www.tinkoff.ru/cf/4tv7XPeQQLP
+0xF9EB840b76786C783c515dc8EBe3071Dc937D8f7
+[Счет в Тинькофф](https://www.tinkoff.ru/rm/smertin.matvey1/Wm2uo72443)
 
 #### Карты сбора:
 
@@ -28,11 +28,17 @@ PayPal: `abc-msk@riseup.net` Предоставлен АЧК-Москва (в о
 
 #### Криптовалюта
 
-BTC: `bc1qjvqhj6uz3s9rphwe5xqn0knurh9xfju3sxsssa`
+BTC: `bc1qqdwjqd4umnc74e95hgek85aj55wws3c4wrwa33`
 
-ETH: `0x0b9AD2661Ef51d228Ae898AF67Af304C77257B30`
+![btc](/btc.jpg)
 
-Monero: `43nq2oiJwPwKdaY58zboRvekRzZ1PUriieDLdtDWBK785u2ETTNYevN4x62FiAv67kKm4KtKXiS9YDptSM6Xg9MvG3QovdY`
+ETH: `0xF9EB840b76786C783c515dc8EBe3071Dc937D8f7`
+
+![eth](/eth.jpg)
+
+Monero: `45GCsPoiEMaGMDQiEFoX5D8FhGF1fonSEGCVAUCQGz2zEzXTPwicpyGhjjZYiS3NGGaCNNX2GtiZsSy5ew2ZU7cUQcaa3kT`
+
+![mon](/mon.jpg)
 
 ### НАПИСАТЬ ПИСЬМО
 
